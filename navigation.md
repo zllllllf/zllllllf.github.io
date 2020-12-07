@@ -1,21 +1,12 @@
 #<font face=Pacifico size=4 color=#447A50>LDR </font>
 
-[About](index.md)
+<font face=Philfont size=4 color=#E06613>[Outside](index.md)</font>
 
-[English]()
+*<font face=Philfont size=4 color=#E06613> [Excerpts](english/2.md)</font>
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-- - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+<font face=Philfont size=4 color=#E06613>[Inside](index.md)</font>
 
-[Math]()
-
-  * [Levy Processes](math/levy_processes.md)
-
-[Coding](coding/PythonNote.md)
+  *<font face=Philfont size=4 color=#E06613> [Excerpts](english/english-formula.md)</font>
 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
