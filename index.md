@@ -23,3 +23,13 @@ LA i’m upset i have complaints listen to me<br>
 they say i came from money and i didn’t<br>
 and i didn’t even have love and it‘s unfair</center></font>
 <img src="4.jpg" style="zoom:60%;" />
+
+<img src="C:\Users\btdpa\Documents\zllllllf.github.io\14 (1).jpg" style="zoom:60%;" />
+
+<img src="C:\Users\btdpa\Documents\zllllllf.github.io\14 (2).jpg" alt="14 (2)" style="zoom:60%;" />
+
+<img src="C:\Users\btdpa\Documents\zllllllf.github.io\14 (3).jpg" alt="14 (3)" style="zoom:60%;" />
+
+<img src="C:\Users\btdpa\Documents\zllllllf.github.io\14 (4).jpg" alt="14 (4)" style="zoom:60%;" />
+
+<img src="C:\Users\btdpa\Documents\zllllllf.github.io\14 (5).jpg" alt="14 (5)" style="zoom:60%;" />

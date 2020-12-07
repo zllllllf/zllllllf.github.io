@@ -1,4 +1,4 @@
-# MDwiki
+#<font face=Pacifico size=4 color=#447A50>LDR </font>
 
 [About](index.md)
 
@@ -6,7 +6,7 @@
 
   * [A Thought on English](english/english-formula.md)
   * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
+- - - -
   * # Advanced
   * [Stress and Syllables](english/stress.md)
 
